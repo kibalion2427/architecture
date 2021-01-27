@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T00:25:39.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="sRRu2rjLsKXjeU547tX-" version="14.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-27T06:04:24.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="nVCdyhYbO95HI8ZnB69F" version="14.2.7" type="github" pages="3">
   <diagram id="wHdw8AcFrdyGmOWlaNZR" name="Administrator CU">
-    <mxGraphModel dx="925" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="tnR928meRIKhT0iyxIUS-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="90" width="390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tnR928meRIKhT0iyxIUS-5" value="Registrar,Editar, Eliminar perfiles y roles de administrador" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tnR928meRIKhT0iyxIUS-5" value="Registrar,Editar, Eliminar roles de usuario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="100" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tnR928meRIKhT0iyxIUS-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,13 +49,13 @@
         <mxCell id="tnR928meRIKhT0iyxIUS-13" value="include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="30" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tnR928meRIKhT0iyxIUS-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tnR928meRIKhT0iyxIUS-14" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnR928meRIKhT0iyxIUS-15" value="Visualizar estadísticas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="290" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tnR928meRIKhT0iyxIUS-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tnR928meRIKhT0iyxIUS-16" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="350" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnR928meRIKhT0iyxIUS-17" value="Enviar notificaciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
