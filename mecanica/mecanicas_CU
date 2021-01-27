@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T00:01:47.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="NghMAmGgQqT_PxJoTdTd" version="14.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-27T00:14:37.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="hOzl6OGwqi5i-HXaHVS3" version="14.2.7" type="github" pages="3">
   <diagram id="wHdw8AcFrdyGmOWlaNZR" name="Administrator CU">
     <mxGraphModel dx="1123" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -499,20 +499,6 @@
             <mxPoint x="220" y="200" as="sourcePoint" />
             <mxPoint x="250" y="520" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="z1Ih22QdqOEU8nt1P4J4" name="Administrator-CU1">
-    <mxGraphModel dx="786" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
-      <root>
-        <mxCell id="tZSBMi6bhw5TeMnTvoYS-0" />
-        <mxCell id="tZSBMi6bhw5TeMnTvoYS-1" parent="tZSBMi6bhw5TeMnTvoYS-0" />
-        <mxCell id="tZSBMi6bhw5TeMnTvoYS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tZSBMi6bhw5TeMnTvoYS-1">
-          <mxGeometry x="300" y="10" width="350" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tZSBMi6bhw5TeMnTvoYS-3" value="Registro de usuarios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="tZSBMi6bhw5TeMnTvoYS-1">
-          <mxGeometry x="370" y="30" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
