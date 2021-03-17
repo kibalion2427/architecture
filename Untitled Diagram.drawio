@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T21:57:37.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" version="14.4.9" etag="kLeP0511hX5WPjYJHG-r" type="github"><diagram id="0dhTyMJkP9SzEOUQXaLA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-17T23:53:02.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="30JXE-4EaJDYcsnpiccT" version="14.4.9" type="github">
+  <diagram id="0dhTyMJkP9SzEOUQXaLA" name="Page-1">
+    <mxGraphModel dx="1026" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sJtiC7XrfyZm6IdIWgI0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sJtiC7XrfyZm6IdIWgI0-1" target="sJtiC7XrfyZm6IdIWgI0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sJtiC7XrfyZm6IdIWgI0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJtiC7XrfyZm6IdIWgI0-2" value="Take values from configured source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sJtiC7XrfyZm6IdIWgI0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sJtiC7XrfyZm6IdIWgI0-5" target="sJtiC7XrfyZm6IdIWgI0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sJtiC7XrfyZm6IdIWgI0-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJtiC7XrfyZm6IdIWgI0-6" value="Apply configured transformation routines to a value property" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sJtiC7XrfyZm6IdIWgI0-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJtiC7XrfyZm6IdIWgI0-9" value="Apply custom conditions&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="210" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
